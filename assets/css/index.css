@@ -1,0 +1,41 @@
+main {
+  width: 960px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  /* min-height: calc(100vh - 211px - 58px); */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#profile-image {
+  margin-right: 20px;
+      
+}
+
+article {
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+article h2 {
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+  padding-top: 20px;
+  color: #4aaaa5;
+}
+
+article, #profile-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+    /* This code is reserve for HW2
+    float: left;
+    */ 
+}
+
