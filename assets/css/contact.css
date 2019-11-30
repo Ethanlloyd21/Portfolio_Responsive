@@ -4,6 +4,7 @@ article h2 {
     color: #4aaaa5;
 }
 
+/*
 input[type=text] {
     width: 100%;
     border: 2px solid #dddddd;
@@ -13,6 +14,17 @@ input[type=text] {
     box-sizing: border-box;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
+*/
+
+input[type=text], input[type=email], textarea {
+    height: 35px;
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    margin: 8px 0;
+    border: 2px solid #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  }
 
 textarea {
     width: 100%;
@@ -22,9 +34,10 @@ textarea {
     border: 2px solid #dddddd;
     outline: none;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    resize: none;  
+    
 }
 
+/*
 .button {
     background-color: #4aaaa5;
     border: none;
@@ -36,4 +49,13 @@ textarea {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+  }
+*/
+  input[type=submit] {
+    padding: 15px 32px;
+    font-size: 16px;
+    color: #ffffff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
   }

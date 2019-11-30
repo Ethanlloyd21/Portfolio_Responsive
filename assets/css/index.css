@@ -1,8 +1,17 @@
 main {
+
+  /*
   width: 960px;
   margin: 0 auto;
   padding: 30px 20px;
   /* min-height: calc(100vh - 211px - 58px); */
+  
+  display: flex;
+	justify-content: center;
+	padding-top: 130px;
+	padding-bottom: 40px;
+  min-height: calc(100vh - 72px);
+  width: 960px;
 }
 
 .center {
@@ -12,8 +21,17 @@ main {
 }
 
 #profile-image {
+  display: flex;
+	justify-content: center;
+  /*
   margin-right: 20px;
-      
+  */    
+}
+
+.image {
+  width: 100%;
+	height: auto;
+	max-width: 200px;
 }
 
 article {
@@ -29,7 +47,7 @@ article h2 {
   color: #4aaaa5;
 }
 
-article, #profile-image {
+article {
   display: block;
   margin-left: auto;
   margin-right: auto;
