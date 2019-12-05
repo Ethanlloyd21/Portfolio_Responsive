@@ -1,0 +1,10 @@
+#profile-image-container {
+	display: flex;
+	justify-content: center;
+
+}
+
+#auth-image {
+	border-radius: 50%;
+}
+
