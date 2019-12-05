@@ -42,7 +42,7 @@ JavaScript CDN
 
 
 ## index.hmtl 
-Used text layout and grid system (columns and rows) for the main container. 
+Used text layout and grid system (columns and rows) for the main container. Used CSS to convert the image into a circular format. 
 
 ![](assets/images/index_readme.PNG)
 
