@@ -52,7 +52,7 @@ Used grid system (columns and rows) to achieve image modification.
 ![](assets/images/portfolio_readme.PNG)
 
 ## contact.html 
-Used BootStrap contact layout (no CSS needed)
+Used BootStrap forms layout (no CSS needed). Throws out an error if the input under Name is null and input under Email is an invalid email. 
 
 ![](assets/images/contact_readme.PNG)
 
