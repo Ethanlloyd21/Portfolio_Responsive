@@ -25,7 +25,7 @@ All HTML files (index.html, contac.html, portfolio.html) used BootStrap to creat
 The following links was used in this project:
 
  BootStrap CSS Link
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css
 
  Google Font Link
   https://fonts.googleapis.com/css?family=Varela+Round&display=swap
