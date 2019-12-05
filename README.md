@@ -58,7 +58,7 @@ Used BootStrap contact layout (no CSS needed)
 
 ## Responsive
 
-![](assets/images/resp_readme.PNG)
+![](assets/images/resp_readme.png)
 
 # License
 
