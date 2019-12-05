@@ -24,17 +24,17 @@ This portfolio design implemented the following:
 Information and photo image 
 -Write a paragraph or two about yourself.
 
-![](assets/images/about.PNG)
+![](assets/images/index_readme.PNG)
 
 ## portfolio.html 
 contains your personal projects, group projects, github projects. etc.
 
-![](assets/images/Portfolio.PNG)
+![](assets/images/portfolio_readme.PNG)
 
 ## contact.html 
 how user can contact you.
 
-![](assets/images/contact.PNG)
+![](assets/images/contact_readme.PNG)
 
 
 # License
