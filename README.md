@@ -28,8 +28,8 @@ The following links was used in this project:
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 
  Google Font Link
-  <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Varela&display=swap" rel="stylesheet">
+  https://fonts.googleapis.com/css?family=Varela+Round&display=swap
+  https://fonts.googleapis.com/css?family=Varela&display=swap
   
  jQuery CDN 
    https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
