@@ -19,20 +19,40 @@ This portfolio design implemented the following:
 7. BootStrap to minimize the use of CSS and media queries.
 8. BootStrap to create a sticky footer and use sub-row/ sub-columns.
 
+## Links
+All HTML files (index.html, contac.html, portfolio.html) used BootStrap to create a responsive NavBar and sticky footer. Also, google font was used to style the font face. 
+
+The following links was used in this project:
+
+ BootStrap CSS Link
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+ Google Font Link
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Varela&display=swap" rel="stylesheet">
+  
+ jQuery CDN 
+   https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js
+
+JavaScript CDN
+   https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
+ 
+ Bootstrap JavaScript CDN 
+   https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+
 
 ## index.hmtl 
-Information and photo image 
--Write a paragraph or two about yourself.
+Used text layout and grid system (columns and rows) for the main container. 
 
 ![](assets/images/index_readme.PNG)
 
 ## portfolio.html 
-contains your personal projects, group projects, github projects. etc.
+Used grid system (columns and rows) to achieve image modification.
 
 ![](assets/images/portfolio_readme.PNG)
 
 ## contact.html 
-how user can contact you.
+Used BootStrap contact layout (no CSS needed)
 
 ![](assets/images/contact_readme.PNG)
 
