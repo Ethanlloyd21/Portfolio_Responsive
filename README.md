@@ -11,7 +11,7 @@ Responsive web applications that render well on a variety of devices and window 
 This portfolio design implemented the following:
 
 1. Modified HW1
-2. Used CSS Typography to create diff. font style and font sizes.
+2. Used CSS Typography to create font style and font sizes.
 3. Google Font (link) to achieve stunning font.
 4. Pseduo-class on links and buttons
 5. BootStrap's Text layout and grid system (containers, rows and columns) 
