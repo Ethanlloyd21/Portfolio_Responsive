@@ -65,6 +65,9 @@ Used BootStrap forms layout (no CSS needed). Throws out an error if the input un
 
 ![](assets/images/resp_readme.png)
 
+## Author
+* Lloyd Marcelino, 2020
+
 # License
 
 Copyright. All rights reserved
